@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GameTestNotRisk extends AbstractTestNotRisk {
+public class GameNotRiskTest extends AbstractNotRiskTest {
 
     static List<Door> doors;
 
